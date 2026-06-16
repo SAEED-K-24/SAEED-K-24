@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Said Seyam 👋
 
-<!--
-**SAEED-K-24/SAEED-K-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Engineer specializing in Flutter — I build and ship 
+cross-platform apps that actually make it to production.
 
-Here are some ideas to get you started:
+Currently working on a Next.js project (yes, I'm expanding 
+beyond mobile 🚀) and sharpening my Android Native skills 
+with Jetpack Compose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I work with
+
+**Mobile:** Flutter · Dart · Bloc · Provider · Firebase  
+**Android:** Kotlin · Jetpack Compose  
+**Web:** Next.js · JavaScript  
+**Backend & Tools:** Git · Docker · PostgreSQL · REST APIs  
+
+---
+
+## 📦 What I've shipped
+
+- 6 original apps across e-commerce, delivery & education  
+- Published on Google Play & App Store  
+- Real-world integrations: Maps, Payments, Push Notifications, 
+  Background Location  
+
+---
+
+## 📫 Reach me
+
+- 🌐 [saidseyam.com](https://saidseyam.com)  
+- 💼 [linkedin.com/in/said-seyam](https://linkedin.com/in/said-seyam)  
+- 📧 saeedkhled24@gmail.com
