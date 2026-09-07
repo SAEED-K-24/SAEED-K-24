@@ -3,18 +3,13 @@
 Mobile Engineer specializing in Flutter — I build and ship 
 cross-platform apps that actually make it to production.
 
-Currently working on a Next.js project (yes, I'm expanding 
-beyond mobile 🚀) and sharpening my Android Native skills 
-with Jetpack Compose.
-
 ---
 
 ## 🛠️ What I work with
 
 **Mobile:** Flutter · Dart · Bloc · Provider · Firebase  
 **Android:** Kotlin · Jetpack Compose  
-**Web:** Next.js · JavaScript  
-**Backend & Tools:** Git · Docker · PostgreSQL · REST APIs  
+**Backend & Tools:** GO . Git · Docker · PostgreSQL · REST APIs  
 
 ---
 
