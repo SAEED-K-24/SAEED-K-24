@@ -24,6 +24,6 @@ cross-platform apps that actually make it to production.
 
 ## 📫 Reach me
 
-- 🌐 [saidseyam.com](https://saidseyam.com)  
+- 🌐 [saidseyam.com](https://saidseyam.vercel.app/)  
 - 💼 [linkedin.com/in/said-seyam](https://linkedin.com/in/said-seyam)  
 - 📧 saeedkhled24@gmail.com
